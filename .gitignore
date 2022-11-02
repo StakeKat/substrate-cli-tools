@@ -1,0 +1,19 @@
+.DS_Store
+.idea
+
+# Cache
+cache
+db
+temp
+
+# Python ENV
+.direnv
+.envrc
+dist
+
+# Serverless
+node_modules
+.serverless
+__pycache__
+package-lock.json
+.pytest_cache
